@@ -26,7 +26,7 @@
 .features {
     overflow:hidden;
     padding-top:40px;
-    padding-bottom:50px; background-color=#f2f2f2;
+    padding-bottom:50px; background-color:#f2f2f2;
 }
 }
 
@@ -69,7 +69,7 @@
 .my-skills {
     padding-top:30px;
     padding-bottom:50px;
-    overflow:hidden; background-color=#f2f2f2;
+    overflow:hidden; background-color:#f2f2f2;
 }
 }
 
@@ -105,7 +105,7 @@
 .resume {
     background-color:#F2F2F2;
     padding-top:50px;
-    padding-bottom:70px;background-color=#f2f2f2;
+    padding-bottom:70px;background-color:#f2f2f2;
 }
 }
 
@@ -117,7 +117,7 @@
 
 /* Start My Education */
 
-.my-education {padding-top:30px;padding-bottom:30px;overflow:hidden;background-color=#f2f2f2;
+.my-education {padding-top:30px;padding-bottom:30px;overflow:hidden;background-color:#f2f2f2;
 }}
 
 .my-education hr {margin:20px 0;background-color:#999;height:1px;border:0}
