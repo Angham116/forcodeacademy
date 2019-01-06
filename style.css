@@ -10,8 +10,7 @@
     list-style:none;
     padding-left:0;
     overflow:hidden;
-    float:right
-}
+    float:right; 
 
 .header .navbar ul li {float:left;padding:10px}
 
@@ -27,7 +26,8 @@
 .features {
     overflow:hidden;
     padding-top:40px;
-    padding-bottom:50px
+    padding-bottom:50px; background-color=#f2f2f2;
+}
 }
 
 .features .feat {width:33.33333%;height:150px}
@@ -69,7 +69,8 @@
 .my-skills {
     padding-top:30px;
     padding-bottom:50px;
-    overflow:hidden
+    overflow:hidden; background-color=#f2f2f2;
+}
 }
 
 .my-skills .skills, 
@@ -104,7 +105,8 @@
 .resume {
     background-color:#F2F2F2;
     padding-top:50px;
-    padding-bottom:70px
+    padding-bottom:70px;background-color=#f2f2f2;
+}
 }
 
 .resume p {padding:0 40px}
@@ -115,7 +117,8 @@
 
 /* Start My Education */
 
-.my-education {padding-top:30px;padding-bottom:30px;overflow:hidden}
+.my-education {padding-top:30px;padding-bottom:30px;overflow:hidden;background-color=#f2f2f2;
+}}
 
 .my-education hr {margin:20px 0;background-color:#999;height:1px;border:0}
 
